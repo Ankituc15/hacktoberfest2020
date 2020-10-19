@@ -2,4 +2,4 @@
 
 CodeWars Solutions on Python\
 Feel free to use code.\
-If it helps you, please leave a star
+If it helps you, please leave a star.
